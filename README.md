@@ -13,6 +13,6 @@ Your program will solve the problem of finding the shortest path given an initia
 The maze layout will be provided as a simple text file, in which '%' means obstacles, 'P' is the starting position,
 and '.' represents the goal.
 
-
+My solution:
 I solve this problem by implementing a Depth-first, Breath-first, Greedy-best-first, and A-star search algorithms to find
 a path from the start of the maze to the end of the maze.
